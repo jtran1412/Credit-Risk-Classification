@@ -23,4 +23,4 @@ In this project, I predicted if a bank should approve or reject a loan to client
 
 ## Summary
 
-The 2nd model performed best. This is because what we want is to minimize false positives for high-risk predictions, meaning we want a high precision for 1. 0.85 > 0.84, so model 2 is better. 
+The first model performed best. This is because what we want is to minimize false positives for high-risk predictions, meaning we want a high precision for 1. 0.85 > 0.84, so model 1 is better. 
