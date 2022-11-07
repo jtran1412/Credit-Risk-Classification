@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this project, I predicted if a bank should approve or reject a loan to clients using machine learning that uses past approvals and rejections for its trainig set and test set. I used data from a CSV file of many clients with many x variables (features), and a y variable of healthy vs high-risk loan classification. I made 2 models: a logistic regression model and another logistic regression model but with the RandomOverSampler module from the imbalanced-learn library to resample the data. I wanted to know which of the 2 models worked best.
+In this project, I predicted if a bank should approve or reject a loan to clients using a logistic regression model that uses past approvals and rejections for its trainig set and test set. I used data from a CSV file of many clients with many x variables (features), and a y variable of healthy vs high-risk loan classification. I made 2 models: a logistic regression model and another logistic regression model but with the RandomOverSampler module from the imbalanced-learn library to resample the data. I wanted to know which of the 2 models worked best.
 
 
 ## Results
